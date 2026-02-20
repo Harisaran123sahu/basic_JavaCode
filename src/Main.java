@@ -1,3 +1,5 @@
+//this is Harisaran sahu coding in winter 2024
+
 //take 3 number from user and make a function to print there averese //dn
 //write a function to print sum of all odd number from 1 to n //dn
 //write a function which take 2 number and return the gratest of the two //dn
